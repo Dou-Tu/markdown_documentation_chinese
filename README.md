@@ -10,16 +10,20 @@
 `markdown`的扩展语法严重依赖于`markdown`编辑器。这里我采用开源的`cutemarked`编辑器。它具有以下特点：
 
 * 完整支持`markdown`基础语法
-	![基本语法](imgs/basic.JPG)
+
+  ![基本语法](imgs/basic.JPG)
 
 * 支持`markdown`流程图扩展
-	![流程图扩展](imgs/graph.JPG)
+
+  ![流程图扩展](imgs/graph.JPG)
 
 * 支持`markdown`的数学公式扩展
-	![数学扩展](imgs/math.JPG)
+
+  ![数学扩展](imgs/math.JPG)
 
 * 支持自动提取标题以生成导航目录
-	![cutemarked展示](imgs/total.JPG)
+
+  ![cutemarked展示](imgs/total.JPG)
 
 * 支持同步转换`markdown`语法到`HTML`输出
 * 支持将文档输出成`PDF`以及`HTML`格式
