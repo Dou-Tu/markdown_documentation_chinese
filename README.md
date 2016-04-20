@@ -32,7 +32,7 @@
 官方提供的`cutemarked`版本有一个缺陷：依赖于网络。因为它的数学公式扩展采用`MathJax`，但是它并没有将其嵌入到软件中而是通过网络下载。
 
 本人修改了它的源码，将所需要的资源打包嵌入到软件中。这样编译生成的`cutemarked`不需要依赖网络，在离线情况下就可以完美运行。项目地址在：https://github.com/huaxz1986/markdown_documentation_chinese .
->你也可以在百度网盘下载我编译打包好的版本（解压缩直接双击运行即可），地址：http://pan.baidu.com/s/1dEqupZ7 ,运行环境为 Win7 64bit Professional
+>你也可以在百度网盘下载我编译打包好的版本（解压缩直接双击运行即可），地址：http://pan.baidu.com/s/1hsATVqk ,运行环境为 Win7 64bit Professional
 
 
 
